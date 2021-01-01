@@ -1,0 +1,79 @@
+body{
+    margin-left: 0;
+    font-family: 'Lemonada', cursive;
+}
+.color-text{
+    color:blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width:100%;
+}
+
+.top-banner {
+
+    background-image: url("images/top-banner.png") ;
+    background-repeat: no-repeat;
+}
+section{
+    height: 600px;
+    margin-bottom: 50px;
+}
+.button-link{
+    text-decoration: none;
+    background-color: greenyellow;
+    padding:10px 20px;
+    border:2px solid hotpink;
+    border-radius: 15px;
+    color:maroon;
+    background-image: linear-gradient(rgb(69, 165, 138),rgb(145, 153, 151));
+    font-weight: bold;
+}
+.button-bottom{
+    text-decoration: none;
+    background-color:rgb(179, 184, 181);
+    padding:10px 20px;
+    border:2px solid hotpink;
+    border-radius: 15px;
+    color:maroon;
+    
+    font-weight: bold;
+}
+.dream{
+    background-image: url("./images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right; 
+}
+.panel{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+
+}
+.experience-area{
+    background-image: url("./images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#student{
+    border-left:7px solid ;
+    border-image: linear-gradient(gold, tomato);
+    border-image-slice: 1;
+}
+#skills{
+    border-left:7px solid ;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    color: gray;
+    text-decoration: initial;
+    text-: honeydew;
+}
