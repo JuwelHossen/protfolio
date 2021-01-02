@@ -77,3 +77,13 @@ footer{
     text-decoration: initial;
     text-: honeydew;
 }
+.video{
+    margin-left: 40%;
+    height: 400px;
+    width: 400px;
+    border: 2px solid blue;
+    position: center;
+    border-radius: 15px;
+    padding-bottom: 50px;
+    background-color: cornsilk;
+}
